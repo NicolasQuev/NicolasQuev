@@ -117,7 +117,7 @@
   *Validación de competencias en analítica exploratoria, data science workflows y machine learning.*
 - 🏆 **Microsoft**: *AI Skills Fest 2026* Badge ([Ver credencial en Credly](https://www.credly.com/badges/f3eff294-7612-4441-82be-50751f2afb53/public_url))
 - 💵 **Google Engineering**: *UX Feedback Reward ($20)* — Reconocimiento por aporte a la usabilidad de Google Flow App.
--📜 **Cisco Networking Academy** *Introduction to Modern AI* (Julio 2026)
+- 📜 **Cisco Networking Academy** *Introduction to Modern AI* (Julio 2026)
 ---
 
 
