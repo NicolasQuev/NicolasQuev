@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=DC2626&center=true&vCenter=true&width=650&lines=%C2%A1Hola!+Soy+Nicol%C3%A1s+Quevedo+%F0%9F%90%BC;Fullstack+%26+Mobile+Developer+%F0%9F%92%BB;Creador+de+Luna+en+Google+Play+%F0%9F%93%B1;Especialista+en+Web+3D+%26+Realtime+%E2%9A%A1;Beta+Tester+%26+QA+en+Google+%F0%9F%94%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=DC2626&center=true&vCenter=true&width=650&lines=%C2%A1Hola!+Soy+Nicol%C3%A1s+Quevedo+%F0%9F%90%BC;Fullstack+%26+Mobile+Developer+%F0%9F%92%BB;Creador+de+Luna+en+Google+Play+%F0%9F%93%B1;Especialista+en+Web+Realtime+%E2%9A%A1;Beta+Tester+%26+QA+en+Google+%F0%9F%94%8D" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -18,11 +18,11 @@
 
 ### 🚀 **Sobre Mí / About Me**
 
-¡Hola! Soy **Nicolás André Quevedo Sánchez** (*DevNicolas_*), Desarrollador Software Fullstack y Mobile apasionado por construir aplicaciones modernas, experiencias 3D fluidas y arquitecturas escalables en tiempo real. 
+¡Hola! Soy **Nicolás André Quevedo Sánchez** (*DevNicolas_*), Desarrollador Software Fullstack y Mobile apasionado por construir aplicaciones modernas y arquitecturas escalables en tiempo real. 
 
 - 📱 **Desarrollador Móvil Publicado**: Creador de [Luna: Mi Ciclo Menstrual Lindo](https://play.google.com/store/apps/details?id=com.luna.ciclokawaii) en Google Play Store (5.0 ★).
 - 🔍 **Google Beta Tester & Community Member**: Participante premiado en el programa Beta de **Google Flow App** y miembro activo de la comunidad exclusiva **Google WebDev Insights (C Space)**.
-- ⚡ **Enfoque Técnico**: Desarrollo web rápido con React, Vite y Vanilla JS, integración de bases de datos relacionales (PostgreSQL/Supabase) en tiempo real, automatización en Python y experiencias interactivas 3D.
+- ⚡ **Enfoque Técnico**: Desarrollo web rápido con React, Vite y Vanilla JS, integración de bases de datos relacionales (PostgreSQL/Supabase) en tiempo real, automatización en Python y gestión de contenedores con Docker/Kubernetes.
 - 🤝 **Filosofía**: Humilde, comunicativo y siempre abierto a aprender nuevas tecnologías y colaborar en proyectos de alto impacto.
 
 ---
@@ -32,7 +32,7 @@
 <div align="center">
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,vite,tailwind,threejs,html,css,nodejs,express,postgres,supabase,python,cs,androidstudio,git,github,vscode,figma,vercel&perline=10" alt="My Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,vite,tailwind,html,css,nodejs,express,postgres,supabase,python,cs,androidstudio,docker,kubernetes,git,github,vercel&perline=10" alt="My Skill Icons" />
   </a>
 
 </div>
@@ -41,10 +41,10 @@
 
 | Categoría | Tecnologías & Herramientas |
 | :--- | :--- |
-| **Frontend & UI/UX** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite_7-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black) |
-| **Backend & DB** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) |
+| **Frontend & UI/UX** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **Backend & Cloud** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
 | **Mobile & Automation** | ![Android](https://img.shields.io/badge/Android_Dev-3DDC84?style=flat-square&logo=android&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![discord.py](https://img.shields.io/badge/discord.py-5865F2?style=flat-square&logo=discord&logoColor=white) |
-| **Cloud & Tools** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Google Play Console](https://img.shields.io/badge/Play_Console-414141?style=flat-square&logo=googleplay&logoColor=white) |
+| **Tools & Platforms** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Google Play Console](https://img.shields.io/badge/Play_Console-414141?style=flat-square&logo=googleplay&logoColor=white) |
 
 ---
 
@@ -113,22 +113,28 @@
 
 ### 🎓 **Certificaciones & Reconocimientos**
 
-- 📜 **Cisco Networking Academy / UPN**: *Introduction to Data Science* (Mayo 2026)  
-  *Validación de competencias en analítica exploratoria, data science workflows y machine learning.*
+#### 🟦 **IBM / Cognitive Class**
+- 📜 **IBM**: *Python for Data Science* (Julio 2026)  
+- 📜 **IBM**: *Fundamentos de Inteligencia Artificial* (Julio 2026)  
+- 📜 **IBM**: *Containers, Kubernetes and OpenShift Essentials* (Julio 2026)  
+
+#### 🟢 **Cisco Networking Academy**
+- 📜 **Cisco**: *Introduction to Data Science* (Mayo 2026)  
+- 📜 **Cisco**: *Introduction to Modern AI* (Julio 2026)  
+- 📜 **Cisco**: *Introduction to Cybersecurity* (Julio 2026)  
+
+#### 🌐 **Microsoft & Google**
 - 🏆 **Microsoft**: *AI Skills Fest 2026* Badge ([Ver credencial en Credly](https://www.credly.com/badges/f3eff294-7612-4441-82be-50751f2afb53/public_url))
 - 💵 **Google Engineering**: *UX Feedback Reward ($20)* — Reconocimiento por aporte a la usabilidad de Google Flow App.
-- 📜 **Cisco Networking Academy** *Introduction to Modern AI* (Julio 2026)
-- 📜 **Cisco Networking Academy** *Introduction to Cybersecurity* (Julio 2026)
+
 ---
-
-
 
 ### 📬 **¿Hablamos? / Let's Connect!**
 
 ¿Tienes una idea, un proyecto web o deseas colaborar? ¡Escríbeme!
 
 - 📧 **Correo**: [nicolasquevedo20@gmail.com](mailto:nicolasquevedo20@gmail.com)
-- 💬 **LinkedIn**: [Nicolás Quevedo Sánchez](www.linkedin.com/in/nicolás-andré-quevedo-sánchez-841a0b39a)
+- 💬 **LinkedIn**: [Nicolás Quevedo Sánchez](https://www.linkedin.com/in/nicol%C3%A1s-quevedo-s%C3%A1nchez-841a0b39a/)
 - 🛒 **Google Play**: [DevNicolas_:) en Play Store](https://play.google.com/store/apps/details?id=com.luna.ciclokawaii)
 
 <p align="center">
