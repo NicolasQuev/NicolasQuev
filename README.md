@@ -107,6 +107,26 @@
       <p><b>Tech:</b> UX Feedback, QA Testing, Product Research.</p>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏮 Hanko: Anime Catalog</h3>
+      <p align="center">
+        <a href="https://nicolasquev.github.io/Hanko/">
+          <img src="https://img.shields.io/badge/GitHub_Pages-Live_Web-c33f1b?style=for-the-badge&logo=github" alt="Hanko Live" />
+        </a>
+      </p>
+      <p>Tracker personal de anime con estética de catálogo de círculos impreso para una feria tipo comiket. Busca series, estampa tu catálogo, entinta capítulos vistos, puntúa y suma puntos — todo guardado en tu dispositivo, sin cuentas ni servidores.</p>
+      <p><b>Tech:</b> Next.js, TypeScript, React 19, GSAP, Jikan API / AniList GraphQL, localStorage.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">✨ Nuevo proyecto en camino</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Stay_Tuned-Coming_Soon-555555?style=for-the-badge&logo=rocket" alt="Next Project" />
+      </p>
+      <p>¡El catálogo sigue creciendo! Cada mes sumo nuevos proyectos y experiencias. Sígueme para no perderte las próximas entregas.</p>
+      <p><b>Tech:</b> Próximamente.</p>
+    </td>
+  </tr>
 </table>
 
 ---
