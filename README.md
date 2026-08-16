@@ -21,6 +21,7 @@
 ¡Hola! Soy **Nicolás André Quevedo Sánchez** (*DevNicolas_*), Desarrollador Software Fullstack y Mobile apasionado por construir aplicaciones modernas y arquitecturas escalables en tiempo real. 
 
 - 📱 **Desarrollador Móvil Publicado**: Creador de [Luna: Mi Ciclo Menstrual Lindo](https://play.google.com/store/apps/details?id=com.luna.ciclokawaii) en Google Play Store (5.0 ★).
+- 🏮 **Desarrollador de Hanko**: Creador de [Hanko](https://nicolasquev.github.io/Hanko/), un tracker personal de anime con estética de catálogo de círculos impreso tipo comiket. Busca, estampa, entinta y puntúa tus series — todo guardado en tu dispositivo (Next.js, TypeScript, GSAP).
 - 🔍 **Google Beta Tester & Community Member**: Participante premiado en el programa Beta de **Google Flow App** y miembro activo de la comunidad exclusiva **Google WebDev Insights (C Space)**.
 - ⚡ **Enfoque Técnico**: Desarrollo web rápido con React, Vite y Vanilla JS, integración de bases de datos relacionales (PostgreSQL/Supabase) en tiempo real, automatización en Python y gestión de contenedores con Docker/Kubernetes.
 - 🤝 **Filosofía**: Humilde, comunicativo y siempre abierto a aprender nuevas tecnologías y colaborar en proyectos de alto impacto.
@@ -32,7 +33,7 @@
 <div align="center">
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,vite,tailwind,html,css,nodejs,express,postgres,supabase,python,cs,androidstudio,docker,kubernetes,git,github,vercel&perline=10" alt="My Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,gsap,vite,tailwind,html,css,nodejs,express,postgres,supabase,python,cs,androidstudio,docker,kubernetes,git,github,vercel&perline=7" alt="My Skill Icons" />
   </a>
 
 </div>
@@ -41,10 +42,10 @@
 
 | Categoría | Tecnologías & Herramientas |
 | :--- | :--- |
-| **Frontend & UI/UX** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
-| **Backend & Cloud** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
+| **Frontend & UI/UX** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black) |
+| **Backend & Cloud** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
 | **Mobile & Automation** | ![Android](https://img.shields.io/badge/Android_Dev-3DDC84?style=flat-square&logo=android&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![discord.py](https://img.shields.io/badge/discord.py-5865F2?style=flat-square&logo=discord&logoColor=white) |
-| **Tools & Platforms** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Google Play Console](https://img.shields.io/badge/Play_Console-414141?style=flat-square&logo=googleplay&logoColor=white) |
+| **Tools & Platforms** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Google Play Console](https://img.shields.io/badge/Play_Console-414141?style=flat-square&logo=googleplay&logoColor=white) |
 
 ---
 
@@ -78,7 +79,7 @@
         <img src="https://img.shields.io/badge/Web_Platform-Mental_Health-red?style=for-the-badge&logo=react" alt="Psychology" />
       </p>
       <p>Plataforma web de bienestar mental con muro social interactivo, perfiles de profesionales, agendamiento de citas y mensajería en tiempo real segura.</p>
-      <p><b>Tech:</b> React, Tailwind CSS, Node.js, Socket.io, Vite.</p>
+      <p><b>Tech:</b> React, Tailwind CSS, Node.js, Vite.</p>
     </td>
     <td width="50%">
       <h3 align="center">📚 Repositorio Web Docente</h3>
