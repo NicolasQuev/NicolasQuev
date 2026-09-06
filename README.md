@@ -1,166 +1,190 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=DC2626&center=true&vCenter=true&width=650&lines=%C2%A1Hola!+Soy+Nicol%C3%A1s+Quevedo+%F0%9F%90%BC;Fullstack+%26+Mobile+Developer+%F0%9F%92%BB;Creador+de+Luna+en+Google+Play+%F0%9F%93%B1;Especialista+en+Web+Realtime+%E2%9A%A1;Beta+Tester+%26+QA+en+Google+%F0%9F%94%8D" alt="Typing SVG" />
-</h1>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=dc2626&height=120&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=120&section=header" width="100%" />
 </p>
-
-<div align="center">
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicol%C3%A1s-quevedo-s%C3%A1nchez-841a0b39a/)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolasquevedo20@gmail.com)
-  [![Google Play](https://img.shields.io/badge/Google_Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.luna.ciclokawaii)
-
-</div>
-
----
-
-### 🚀 **Sobre Mí / About Me**
-
-¡Hola! Soy **Nicolás André Quevedo Sánchez** (*DevNicolas_*), Desarrollador Software Fullstack y Mobile apasionado por construir aplicaciones modernas y arquitecturas escalables en tiempo real. 
-
-- 📱 **Desarrollador Móvil Publicado**: Creador de [Luna: Mi Ciclo Menstrual Lindo](https://play.google.com/store/apps/details?id=com.luna.ciclokawaii) en Google Play Store (5.0 ★).
-- 🏮 **Desarrollador de Hanko**: Creador de [Hanko](https://nicolasquev.github.io/Hanko/), un tracker personal de anime con estética de catálogo de círculos impreso tipo comiket. Busca, estampa, entinta y puntúa tus series — todo guardado en tu dispositivo (Next.js, TypeScript, GSAP).
-- 🔍 **Google Beta Tester & Community Member**: Participante premiado en el programa Beta de **Google Flow App** y miembro activo de la comunidad exclusiva **Google WebDev Insights (C Space)**.
-- ⚡ **Enfoque Técnico**: Desarrollo web rápido con React, Vite y Vanilla JS, integración de bases de datos relacionales (PostgreSQL/Supabase) en tiempo real, automatización en Python y gestión de contenedores con Docker/Kubernetes.
-- 🤝 **Filosofía**: Humilde, comunicativo y siempre abierto a aprender nuevas tecnologías y colaborar en proyectos de alto impacto.
-
----
-
-### 🛠️ **Tech Stack & Herramientas**
-
-<div align="center">
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,gsap,vite,tailwind,html,css,nodejs,express,postgres,supabase,python,cs,androidstudio,docker,kubernetes,git,github,vercel&perline=7" alt="My Skill Icons" />
-  </a>
-
-</div>
-
-<br/>
-
-| Categoría | Tecnologías & Herramientas |
-| :--- | :--- |
-| **Frontend & UI/UX** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black) |
-| **Backend & Cloud** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
-| **Mobile & Automation** | ![Android](https://img.shields.io/badge/Android_Dev-3DDC84?style=flat-square&logo=android&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![discord.py](https://img.shields.io/badge/discord.py-5865F2?style=flat-square&logo=discord&logoColor=white) |
-| **Tools & Platforms** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Google Play Console](https://img.shields.io/badge/Play_Console-414141?style=flat-square&logo=googleplay&logoColor=white) |
-
----
-
-### 🌟 **Proyectos Destacados / Featured Projects**
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="20%" align="center" valign="middle">
+      <p align="center"><img src="https://media.giphy.com/media/0BBmdfFs2DqtnvvLM9/200w.gif" width="140" alt="Rika saludando" /></p>
+    </td>
+    <td width="60%" align="center">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=DC2626&center=true&vCenter=true&width=560&height=50&lines=%C2%A1Hola!+Soy+Nicol%C3%A1s+Quevedo;Fullstack+Developer;Creador+de+Luna+en+Google+Play;Web+Realtime+%2B+GSAP+%2B+Supabase;Beta+Tester+%26+QA+en+Google" alt="Typing SVG" />
+      <br/>
+      <p align="center">
+        <b>Desarrollador Fullstack desde el Per&uacute;</b> <img src="https://flagcdn.com/w40/pe.png" width="20" align="center" alt="Perú" /><br/>
+        <code>Luna 5.0★</code> · <code>Hanko</code> · <code>Google Beta Tester</code>
+      </p>
+    </td>
+    <td width="20%" align="center" valign="middle">
+      <p align="center"><img src="https://media.giphy.com/media/kfHcSIE54oh0tGhUm7/200w.gif" width="140" alt="Rika" /></p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nicol%C3%A1s-andr%C3%A9-quevedo-s%C3%A1nchez-841a0b39a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:nicolasquevedo20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://nicolasquev.github.io/Hanko/"><img src="https://img.shields.io/badge/Live-c33f1b?style=for-the-badge&logo=github&logoColor=white&label=Hanko" alt="Hanko" /></a>
+  <a href="https://nicqevportafolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.luna.ciclokawaii"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NicolasQuev&style=flat-square&color=dc2626&label=visitas+al+perfil" alt="Visitas al perfil" />
+</p>
+
+---
+
+### 🌸 Sobre mí
+
+- 📱 **Desarrollador Móvil Publicado**: creador de [Luna: Mi Ciclo Menstrual Lindo](https://play.google.com/store/apps/details?id=com.luna.ciclokawaii) en Google Play Store (5.0 ★).
+- 🏮 **Creador de [Hanko](https://nicolasquev.github.io/Hanko/)**: tracker de anime con estética de catálogo de círculos comiket. Busca, estampa, entinta y puntúa tus series — todo guardado en tu dispositivo (Next.js, TypeScript, GSAP).
+- 🔍 **Google Beta Tester & Community Member**: participante premiado en la beta de **Google Flow App** y miembro de la comunidad **Google WebDev Insights (C Space)**.
+- ⚡ **Enfoque técnico**: web rápida con React, Vite y Vanilla JS, tiempo real con PostgreSQL/Supabase, automatización en Python y contenedores con Docker/Kubernetes.
+- 🤝 **Filosofía**: humilde, comunicativo y siempre abierto a aprender tecnologías nuevas y colaborar en proyectos de alto impacto.
+
+---
+
+## 🧰 Tech stack
+
+<p align="center">
+  <marquee direction="left" scrollamount="6">
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,figma,vite,tailwind,html,css,nodejs,express,postgres,supabase,python,cs,androidstudio,docker,kubernetes,git,github,vercel&perline=7" alt="Skill Icons" /></a>
+  </marquee>
+</p>
+
+---
+
+## ⭐ Proyectos
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center">📱 Luna: Cute Period Tracker</h3>
       <p align="center">
         <a href="https://play.google.com/store/apps/details?id=com.luna.ciclokawaii">
-          <img src="https://img.shields.io/badge/Google_Play_Store-5.0_★-pink?style=for-the-badge&logo=googleplay" alt="Play Store" />
+          <img src="https://img.shields.io/badge/Play_Store-5.0_★-ec4899?style=flat-square&logo=googleplay" alt="Play Store" />
         </a>
+        <img src="https://img.shields.io/badge/offline--first-sin_cuentas-22c55e?style=flat-square" alt="Offline" />
       </p>
-      <p>Aplicación móvil Android publicada independientemente en Play Store. Enfocada en la privacidad, salud de la mujer, diseño tierno y funcionamiento offline-first.</p>
-      <p><b>Tech:</b> Android / Mobile Dev, UI/UX Design, Privacy Architecture.</p>
+      <p>Aplicación móvil Android publicada en Play Store. Enfocada en la privacidad, salud de la mujer, diseño tierno y funcionamiento offline-first.</p>
+      <p><b>Tech:</b> Android · UI/UX Design · Privacy Architecture</p>
     </td>
-    <td width="50%">
-      <h3 align="center">🎟️ Muchik Eventos</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Realtime-QR_Access-orange?style=for-the-badge&logo=supabase" alt="Muchik" />
-      </p>
-      <p>Sistema exclusivo de gestión de accesos para eventos con escáner QR en vivo, generación de credenciales inviolables e integración directa de PostgreSQL/Supabase en el cliente web.</p>
-      <p><b>Tech:</b> Vanilla JS, Vite, Supabase Realtime, QR Scanner, jsPDF.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🧠 Psychology Platform</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Web_Platform-Mental_Health-red?style=for-the-badge&logo=react" alt="Psychology" />
-      </p>
-      <p>Plataforma web de bienestar mental con muro social interactivo, perfiles de profesionales, agendamiento de citas y mensajería en tiempo real segura.</p>
-      <p><b>Tech:</b> React, Tailwind CSS, Node.js, Vite.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📚 Repositorio Web Docente</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/PDF_Filter-Intersection_Observer-blue?style=for-the-badge&logo=javascript" alt="Web Repo" />
-      </p>
-      <p>Plataforma académica encargada por docente universitario en Derecho Penal para la difusión de revistas y PDFs con filtrado dinámico instantáneo sin descargas lentas.</p>
-      <p><b>Tech:</b> React, Vite, Vanilla CSS3, Intersection Observer API.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🤖 Python Discord Bot</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Discord_Bot-Vercel_24/7-5865F2?style=for-the-badge&logo=discord" alt="Discord Bot" />
-      </p>
-      <p>Bot automatizado de Discord desarrollado con <code>discord.py</code>. Incluye juegos interactivos (Galleta de la Fortuna), celebraciones de cumpleaños y almacenamiento persistente con Supabase.</p>
-      <p><b>Tech:</b> Python, discord.py, Supabase, Vercel.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🔍 Google Flow & WebDev Insights</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Google_Reward-C_Space_Community-4285F4?style=for-the-badge&logo=google" alt="Google Insights" />
-      </p>
-      <p>Análisis de UX y QA premiado por el equipo de ingeniería de Google en la beta de Flow App. Miembro seleccionado en el canal C Space para investigación de nuevas herramientas de dev.</p>
-      <p><b>Tech:</b> UX Feedback, QA Testing, Product Research.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">🏮 Hanko: Anime Catalog</h3>
       <p align="center">
         <a href="https://nicolasquev.github.io/Hanko/">
-          <img src="https://img.shields.io/badge/GitHub_Pages-Live_Web-c33f1b?style=for-the-badge&logo=github" alt="Hanko Live" />
+          <img src="https://img.shields.io/badge/GitHub_Pages-Live-c33f1b?style=flat-square&logo=github" alt="Hanko Live" />
         </a>
       </p>
-      <p>Tracker personal de anime con estética de catálogo de círculos impreso para una feria tipo comiket. Busca series, estampa tu catálogo, entinta capítulos vistos, puntúa y suma puntos — todo guardado en tu dispositivo, sin cuentas ni servidores.</p>
-      <p><b>Tech:</b> Next.js, TypeScript, React 19, GSAP, Jikan API / AniList GraphQL, localStorage.</p>
+      <p>Tracker personal de anime con estética de catálogo de círculos impreso tipo comiket. Busca, estampa, entinta capítulos y puntúa — todo guardado en tu dispositivo, sin cuentas ni servidores.</p>
+      <p><b>Tech:</b> Next.js · TypeScript · React 19 · GSAP · Jikan/AniList · localStorage</p>
     </td>
-    <td width="50%">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🎟️ Muchik Eventos</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Realtime-QR_Access-f97316?style=flat-square&logo=supabase" alt="Muchik" />
+      </p>
+      <p>Sistema de gestión de accesos para eventos con escáner QR en vivo, credenciales inviolables e integración directa de PostgreSQL/Supabase en el cliente web.</p>
+      <p><b>Tech:</b> Vanilla JS · Vite · Supabase Realtime · QR Scanner · jsPDF</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 Psychology Platform</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Mental_Health-Web_Platform-ef4444?style=flat-square&logo=react" alt="Psychology" />
+      </p>
+      <p>Plataforma web de bienestar mental con muro social interactivo, perfiles de profesionales, agendamiento de citas y mensajería en tiempo real segura.</p>
+      <p><b>Tech:</b> React · Tailwind CSS · Node.js · Vite</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📚 Repositorio Web Docente</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PDF_Filter-Instantáneo-3b82f6?style=flat-square&logo=javascript" alt="Web Repo" />
+      </p>
+      <p>Plataforma académica encargada por un docente universitario de Derecho Penal para difundir revistas y PDFs con filtrado dinámico instantáneo, sin descargas lentas.</p>
+      <p><b>Tech:</b> React · Vite · Vanilla CSS3 · Intersection Observer API</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 Python Discord Bot</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Discord_Bot-24/7_en_Vercel-5865F2?style=flat-square&logo=discord" alt="Discord Bot" />
+      </p>
+      <p>Bot automatizado de Discord con juegos interactivos (Galleta de la Fortuna), celebraciones de cumpleaños y almacenamiento persistente con Supabase.</p>
+      <p><b>Tech:</b> Python · discord.py · Supabase · Vercel</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔍 Google Flow & WebDev Insights</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Google_Reward-UX_Feedback-4285F4?style=flat-square&logo=google" alt="Google Insights" />
+      </p>
+      <p>Análisis de UX y QA premiado por el equipo de ingeniería de Google en la beta de Flow App. Miembro seleccionado en el canal C Space para investigación de nuevas herramientas de dev.</p>
+      <p><b>Tech:</b> UX Feedback · QA Testing · Product Research</p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">✨ Nuevo proyecto en camino</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Stay_Tuned-Coming_Soon-555555?style=for-the-badge&logo=rocket" alt="Next Project" />
+        <img src="https://img.shields.io/badge/Coming_Soon-Stay_Tuned-a855f7?style=flat-square&logo=rocket&logoColor=white" alt="Next Project" />
       </p>
       <p>¡El catálogo sigue creciendo! Cada mes sumo nuevos proyectos y experiencias. Sígueme para no perderte las próximas entregas.</p>
-      <p><b>Tech:</b> Próximamente.</p>
+      <p><b>Tech:</b> Próximamente 👀</p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🎓 **Certificaciones & Reconocimientos**
+## 🎓 Papeles y reconocimientos
 
-#### 🟦 **IBM / Cognitive Class**
-- 📜 **IBM**: *Python for Data Science* (Julio 2026)  
-- 📜 **IBM**: *Fundamentos de Inteligencia Artificial* (Julio 2026)  
-- 📜 **IBM**: *Containers, Kubernetes and OpenShift Essentials* (Julio 2026)  
-
-#### 🟢 **Cisco Networking Academy**
-- 📜 **Cisco**: *Introduction to Data Science* (Mayo 2026)  
-- 📜 **Cisco**: *Introduction to Modern AI* (Julio 2026)  
-- 📜 **Cisco**: *Introduction to Cybersecurity* (Julio 2026)  
-
-#### 🌐 **Microsoft & Google**
-- 🏆 **Microsoft**: *AI Skills Fest 2026* Badge ([Ver credencial en Credly](https://www.credly.com/badges/f3eff294-7612-4441-82be-50751f2afb53/public_url))
-- 💵 **Google Engineering**: *UX Feedback Reward ($20)* — Reconocimiento por aporte a la usabilidad de Google Flow App.
+| Quién | Qué |
+| :--- | :--- |
+| 🟥 **IBM / Cognitive Class** | Python for Data Science · Fundamentos de IA · Containers, Kubernetes & OpenShift Essentials |
+| 🟩 **Cisco NetAcad** | Intro to Data Science · Intro to Modern AI · Intro to Cybersecurity |
+| 🟪 **Microsoft** | AI Skills Fest 2026 — [credencial en Credly](https://www.credly.com/badges/f3eff294-7612-4441-82be-50751f2afb53/public_url) |
+| 🟦 **Google** | Beta tester premiado de Flow App ($20 UX feedback) · comunidad WebDev Insights (C Space) |
 
 ---
 
-### 📬 **¿Hablamos? / Let's Connect!**
+## 💌 ¿Hablamos?
 
-¿Tienes una idea, un proyecto web o deseas colaborar? ¡Escríbeme!
+¿Tienes una idea, un proyecto web o quieres colaborar? Escríbeme, contesto rápido.
 
-- 📧 **Correo**: [nicolasquevedo20@gmail.com](mailto:nicolasquevedo20@gmail.com)
-- 💬 **LinkedIn**: [Nicolás Quevedo Sánchez](https://www.linkedin.com/in/nicol%C3%A1s-quevedo-s%C3%A1nchez-841a0b39a/)
-- 🛒 **Google Play**: [DevNicolas_:) en Play Store](https://play.google.com/store/apps/details?id=com.luna.ciclokawaii)
+<div align="center">
+
+<table>
+  <tr>
+    <td width="25%" align="center">
+      <a href="mailto:nicolasquevedo20@gmail.com"><img src="https://api.iconify.design/mdi:gmail.svg?color=%23D14836" width="52" alt="Gmail" /></a>
+      <br/><sub><b>Correo</b></sub>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://www.linkedin.com/in/nicol%C3%A1s-andr%C3%A9-quevedo-s%C3%A1nchez-841a0b39a"><img src="https://api.iconify.design/mdi:linkedin.svg?color=%230A66C2" width="52" alt="LinkedIn" /></a>
+      <br/><sub><b>LinkedIn</b></sub>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://nicqevportafolio.vercel.app/"><img src="https://cdn.simpleicons.org/vercel/A855F7" width="52" alt="Portafolio" /></a>
+      <br/><sub><b>Portafolio</b></sub>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://discord.com/channels/@me/1456788077971378322"><img src="https://api.iconify.design/mdi:discord.svg?color=%235865F2" width="52" alt="Discord" /></a>
+      <br/><sub><b>Discord</b></sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
 
 <p align="center">
-  <br/>
   <i>"El código es arte en constante evolución."</i> ✨
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=dc2626&height=100&section=footer" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=100&section=footer" width="100%" />
 </p>
