@@ -158,19 +158,23 @@
 
 <table>
   <tr>
-    <td width="25%" align="center">
+    <td width="20%" align="center">
       <a href="mailto:nicolasquevedo20@gmail.com"><img src="https://api.iconify.design/mdi:gmail.svg?color=%23D14836" width="52" alt="Gmail" /></a>
       <br/><sub><b>Correo</b></sub>
     </td>
-    <td width="25%" align="center">
+    <td width="20%" align="center">
       <a href="https://www.linkedin.com/in/nicol%C3%A1s-andr%C3%A9-quevedo-s%C3%A1nchez-841a0b39a"><img src="https://api.iconify.design/mdi:linkedin.svg?color=%230A66C2" width="52" alt="LinkedIn" /></a>
       <br/><sub><b>LinkedIn</b></sub>
     </td>
-    <td width="25%" align="center">
+    <td width="20%" align="center">
       <a href="https://nicqevportafolio.vercel.app/"><img src="https://cdn.simpleicons.org/vercel/A855F7" width="52" alt="Portafolio" /></a>
       <br/><sub><b>Portafolio</b></sub>
     </td>
-    <td width="25%" align="center">
+    <td width="20%" align="center">
+      <a href="https://wa.me/NicolasQuevDev"><img src="https://api.iconify.design/mdi:whatsapp.svg?color=%2325D366" width="52" alt="WhatsApp" /></a>
+      <br/><sub><b>WhatsApp</b></sub>
+    </td>
+    <td width="20%" align="center">
       <a href="https://discord.com/channels/@me/1456788077971378322"><img src="https://api.iconify.design/mdi:discord.svg?color=%235865F2" width="52" alt="Discord" /></a>
       <br/><sub><b>Discord</b></sub>
     </td>
